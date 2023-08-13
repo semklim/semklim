@@ -12,7 +12,7 @@
   <br>
     🤔 I’m looking for interesting projects.
   <br>
-    🏡 Home addres: Ukraine, Odessa
+    🏡 Home addres: Ukraine, Odesa
   <br>
     📞 Tel: +380508547303
   <br>
