@@ -1,6 +1,5 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&duration=5000&center=true&vCenter=true&multiline=false&repeat=false&width=400&height=50&lines=Hi!+Nice+to+meet+you!" alt="Typing SVG"/></a>
-  </a>
 </h1>
 <p align="center">
   <img width="auto" height="500" src="https://media.tenor.com/Wl-KdhG1N24AAAAd/cats.gif">
@@ -17,6 +16,9 @@
     📞 Tel: +380508547303
   <br>
     📫 Contact me: <a id ="emailToMe" href="mailto: romanklimashenko@gmail.com">romanklimashenko@gmail.com</a>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=semklim&style=for-the-badge&label=PROFILE+VIEWS">
 </p>
 <hr>
 <h2 align="center">💥 Languages & Frameworks & Tools & Abilities 💥</h2>
