@@ -71,7 +71,7 @@
 <hr>
 <h2 align="center">🔥 Repositories 🔥</h2>
 <div width="100%" align="center">
-<!--   <a href="https://github.com/semklim/WebShop_angular" title="WebShop_angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=WebShop_angular&theme=tokyonight&border_color=61dafb&border_radius=10"></a> -->
+  <a href="https://github.com/semklim/WebShop_angular" title="WebShop_angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=WebShop_angular&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
  <a href="https://github.com/semklim/currency-converter-forex" title="currency-converter-forex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=currency-converter-forex&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
