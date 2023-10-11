@@ -72,6 +72,7 @@
 <h2 align="center">🔥 Repositories 🔥</h2>
 <div width="100%" align="center">
   <a href="https://github.com/semklim/portfolio" title="Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/semklim/Express_MongoDb_API" title="Authentication and Registration API using Express.js and MongoDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=Express_MongoDb_API&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
   <a href="https://github.com/semklim/WebShop_angular" title="WebShop_angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=WebShop_angular&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
