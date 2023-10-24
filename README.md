@@ -72,7 +72,7 @@
 <h2 align="center">🔥 Repositories 🔥</h2>
 <div width="100%" align="center">
   <a href="https://github.com/semklim/portfolio" title="Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/semklim/Expressjs_Mongo_Api_example" title="Website example of Authentication and Registration API using CORS, JSON Web Tokens, nodemailer, Express.js and MongoDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=Expressjs_Mongo_Api_example&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/semklim/Expressjs_Mongo_Api_example" title="Website example of Authentication and Registration API using CORS, JSON Web Tokens, nodemailer, Express.js and MongoDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=Expressjs_Mongo_Api_example&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
   <a href="https://github.com/semklim/WebShop_angular" title="WebShop_angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=semklim&repo=WebShop_angular&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
